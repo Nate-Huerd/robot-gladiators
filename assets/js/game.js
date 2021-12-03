@@ -94,4 +94,4 @@ if (promptFight === "fight" || promptFight === "FIGHT") {
 fight();
 
 
-//3.1.8
+//3.1.9
